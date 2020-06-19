@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Teaching Assistant"
-  company = "School of Computing"
+  company = "School of Computing, National University of Singapore"
   company_url = "http://www.comp.nus.edu.sg"
   location = "Singapore"
   date_start = "2019-01-01"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Consultant"
-  company = "Moovita"
+  company = "Moovita - Driving Autonomous Mover Solution "
   company_url = "https://www.moovita.com"
   location = "Singapore"
   date_start = "2017-12-01"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior Software Engineer"
-  company = "Ixigo"
+  company = "Ixigo.com"
   company_url = "https://www.ixigo.com"
   location = "Gurgaon, India"
   date_start = "2017-03-01"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineer"
-  company = "Snapdeal"
+  company = "Snapdeal.com"
   company_url = "https://www.snapdeal.com"
   location = "Gurgaon, India"
   date_start = "2015-07-01"
