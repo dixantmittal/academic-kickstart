@@ -66,9 +66,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 ---
 
-Dixant Mittal is a PhD student at the School of Computing, National University of Singapore, where he is being advised by Professor Wee Sun Lee. His research interests include machine learning, robotics, graphical models and planning under uncertainty. He is a member of Learning, Inference and Decision Group at the School of Computing.
+Dixant Mittal is a PhD student at the School of Computing, National University of Singapore, where he is being advised by Professor Wee Sun Lee. He is a member of Learning, Inference and Decision Group at the School of Computing.
+
+He completed his master's degree with thesis, titled "Active Informaiton Gathering to Disambiguate Referring Expressions", under the supervision of Professor David Hsu.
