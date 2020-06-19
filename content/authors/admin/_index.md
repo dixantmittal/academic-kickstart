@@ -29,13 +29,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: National University of Singapore
-      year: 2019 - Present
+      year: Present
     - course: MComp in Computer Science
       institution: National University of Singapore
-      year: 2017 - 2018
+      year: 2018
     - course: BTech in Information Technology
       institution: National Institute of Technology Kurukshetra, India
-      year: 2011 - 2015
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
