@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: National University of Singapore
-      year: Present
+      year: (2019 - Present)
     - course: MComp in Computer Science
       institution: National University of Singapore
       year: 2018
