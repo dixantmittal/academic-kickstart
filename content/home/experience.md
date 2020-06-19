@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Teaching Assistant"
+  company = "School of Computing"
+  company_url = "http://www.comp.nus.edu.sg"
+  location = "Singapore"
+  date_start = "2019-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Consultant"
+  company = "Moovita"
+  company_url = "https://www.moovita.com"
+  location = "Singapore"
+  date_start = "2017-12-01"
+  date_end = "2018-12-01"
+  description = """"""
+
+[[experience]]
+  title = "Senior Software Engineer"
+  company = "Ixigo"
+  company_url = "https://www.ixigo.com"
+  location = "Gurgaon, India"
+  date_start = "2017-03-01"
+  date_end = "2017-07-01"
+  description = """"""
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Snapdeal"
+  company_url = "https://www.snapdeal.com"
+  location = "Gurgaon, India"
+  date_start = "2015-07-01"
+  date_end = "2017-03-01"
+  description = """"""
 
 +++
