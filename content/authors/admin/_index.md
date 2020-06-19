@@ -29,13 +29,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: National University of Singapore
-      year: 2019-
-    - course: MEng in Artificial Intelligence
+      year: 2019 - Present
+    - course: MComp in Computer Science
       institution: National University of Singapore
-      year: 2017-2018
-    - course: BSc in Artificial Intelligence
+      year: 2017 - 2018
+    - course: BTech in Information Technology
       institution: National Institute of Technology Kurukshetra, India
-      year: 2011-2015
+      year: 2011 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +70,4 @@ user_groups:
   - Visitors
 ---
 
-Dixant Mittal is a PhD student at the School of Computing, National University of Singapore. He is being advised by Professor LEE Wee Sun. His research interests include machine learning, robotics, graphical models and planning under uncertainty. He is a member of Learning, Inference and Decision Group at the School of Computing.
+Dixant Mittal is a PhD student at the School of Computing, National University of Singapore, where he is being advised by Professor Wee Sun Lee. His research interests include machine learning, robotics, graphical models and planning under uncertainty. He is a member of Learning, Inference and Decision Group at the School of Computing.
