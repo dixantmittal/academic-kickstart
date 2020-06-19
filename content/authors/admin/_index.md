@@ -22,8 +22,9 @@ bio: My research interests include machine learning, robotics, graphical models 
 
 interests:
   - Machine Learning
-  - Planning
+  - Planning under Uncertainty
   - Robotics
+  - Approximate Inference
 
 education:
   courses:
