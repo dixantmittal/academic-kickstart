@@ -62,13 +62,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "dixant.mittal@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
 ---
 
-Dixant Mittal is a PhD student at the School of Computing, National University of Singapore, where he is being advised by Professor Wee Sun Lee. He is a member of Learning, Inference and Decision Group at the School of Computing.
+Dixant Mittal is a PhD student at the School of Computing, National University of Singapore, where he is being advised by [Professor Wee Sun Lee](https://www.comp.nus.edu.sg/cs/bio/leews/). He is a member of Learning, Inference and Decision Group at the School of Computing.
 
-He completed his master's degree with thesis titled "Active Informaiton Gathering to Disambiguate Referring Expressions" under the supervision of Professor David Hsu.
+He completed his master's degree with thesis titled "[Active Informaiton Gathering to Disambiguate Referring Expressions](https://goo.gl/JfXBEj)" under the supervision of [Professor David Hsu](https://www.comp.nus.edu.sg/cs/bio/dyhsu/).
