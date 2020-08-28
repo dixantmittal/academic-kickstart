@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: National University of Singapore
       year: (2019 - Present)
-    - course: MComp in Computer Science
+    - course: M.Comp. in Computer Science
       institution: National University of Singapore
       year: 2018
-    - course: BTech in Information Technology
+    - course: B.Tech. in Information Technology
       institution: National Institute of Technology Kurukshetra, India
       year: 2015
 
@@ -55,6 +55,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/dixantmittal
+  - icon: linkedin
+    icon_pack: fab
+    link: https://github.com/dixantmittal
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +72,6 @@ email: "dixant.mittal@gmail.com"
 user_groups: []
 ---
 
-Dixant Mittal is a PhD student at the School of Computing, National University of Singapore, where he is being advised by [Professor Wee Sun Lee](https://www.comp.nus.edu.sg/cs/bio/leews/). He is a member of Learning, Inference and Decision Group at the School of Computing.
+Dixant Mittal is a PhD student at the School of Computing, National University of Singapore, where he is being advised by [Professor Wee Sun Lee](https://www.comp.nus.edu.sg/cs/bio/leews/). He is a member of Learning, Inference and Planning Group at the School of Computing.
 
 He completed his master's degree with thesis titled "[Active Informaiton Gathering to Disambiguate Referring Expressions](https://goo.gl/JfXBEj)" under the supervision of [Professor David Hsu](https://www.comp.nus.edu.sg/cs/bio/dyhsu/).
